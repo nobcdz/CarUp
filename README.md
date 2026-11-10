@@ -4,6 +4,8 @@
 
 [下载 CarUp 3.0](https://github.com/nobcdz/CarUp/releases) · [查看使用手册](使用手册/README.md)
 
+**APK 来源说明**：本仓库 Releases 提供的 CarUp 3.0 APK 来源于网络，由本仓库整理分享。
+
 ![CarUp 首页，显示连接状态和无线、有线 CarPlay 入口](使用手册/images/home.webp)
 
 ## 先检测，再连接
