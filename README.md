@@ -1,10 +1,10 @@
 # CarUp
 
-让 iPhone 通过有线或无线 CarPlay 连接安卓车机。
+CarUp 让 iPhone 通过有线或无线 CarPlay 连接安卓车机。连接后，可以在车机上使用 iPhone 的 CarPlay 应用，并在分屏仪表板上同时查看导航和控制音乐。
 
-[下载 CarUp 3.0](https://github.com/nobcdz/CarUp/releases) · [查看使用手册](使用手册/README.md)
+[下载 CarUp 4.0](https://github.com/nobcdz/CarUp/releases/download/v4.0/CarUp-4.0-release.apk) · [查看使用手册](使用手册/README.md)
 
-**APK 来源说明**：本仓库 Releases 提供的 CarUp 3.0 APK 来源于网络，由本仓库整理分享。
+**APK 来源说明**：本仓库通过 GitHub Releases 分享 APK。
 
 ![CarUp 首页，显示连接状态和无线、有线 CarPlay 入口](使用手册/images/home.webp)
 
@@ -33,7 +33,7 @@ CarUp 提供自动画面适配、屏幕方向、音频缓冲、方向盘按键�
 
 ## 下载与安装
 
-1. 打开 [GitHub Releases](https://github.com/nobcdz/CarUp/releases)，在 3.0 版本的附件中下载 `CarUp-3.0-release.apk`。
+1. 打开 [GitHub Releases](https://github.com/nobcdz/CarUp/releases/latest)，在 4.0 版本的附件中下载 `CarUp-4.0-release.apk`。
 2. 将 APK 传到安卓车机，按车机提示完成安装。
 3. 打开 CarUp，先到「检测」页确认可用的连接方式，再按[使用手册](使用手册/README.md)完成连接。
 
